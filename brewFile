@@ -90,6 +90,8 @@ cask "visual-studio-code"
 cask "vmware-fusion"
 cask "wireshark"
 cask "microsoft-teams"
+cask "sourcetree"
+cask "postman"
 mas "Amphetamine", id: 937984704
 mas "BetterSnapTool", id: 417375580
 mas "Calculator Pro • Topbar App", id: 576215086
